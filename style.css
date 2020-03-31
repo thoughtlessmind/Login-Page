@@ -49,6 +49,11 @@ input{
     color: #fff;
     cursor: pointer;
     margin-top: 40px;
+    border-radius: 5px;
+}
+
+#submit:hover{
+    background: rgba(60, 60, 247, 0.8);
 }
 
 input:focus{
