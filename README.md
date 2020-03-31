@@ -1,3 +1,3 @@
 # Login-Page
-A basic registration form
+A basic registration/login form --
 https://thoughtlessmind.github.io/Login-Page/
